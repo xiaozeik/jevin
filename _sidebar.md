@@ -1,0 +1,23 @@
+<!-- 侧边栏 docs/_sidebar.md -->
+
+- Laravel基础笔记
+  - [1. 创建项目](/laravel/base/1.%20创建项目.md)
+  - [2. 路由的基础知识](/laravel/base/2.%20路由的基础知识.md)
+  - [3. 控制模块基础知识](/laravel/base/3.%20控制模块基础知识.md)
+  - [4. 数据库操作](/laravel/base/4.%20数据库操作.md)
+  - [5. 构造器增删改查](/laravel/base/5.%20构造器增删改查.md)
+  - [6. 模型的增删改查](/laravel/base/6.%20模型的增删改查.md)
+  - [7. 模型的作用域](/laravel/base/7.%20模型的作用域.md)
+  - [8. 模型的访问器、修改器](/laravel/base/8.%20模型的访问器、修改器.md)
+  - [9. 集合与模型](/laravel/base/9.%20集合与模型.md)
+  - [10. 模型的关联查询](/laravel/base/10.%20模型的关联查询.md)
+  - [11. Debugbar调试器](/laravel/base/11.%20Debugbar调试器.md)
+  - [12. 模型的预加载](/laravel/base/12.%20模型的预加载.md)
+  - [13. 模型的关联写入](/laravel/base/13.%20模型的关联写入.md)
+  - [14. 请求与依赖](/laravel/base/14.%20请求与依赖.md)
+  - [15. 生成URL](/laravel/base/15.%20生成URL.md)
+  - [16. Cookie与Session](/laravel/base/16.%20Cookie与Session.md)
+  - [17. 中间件](/laravel/base/17.%20中间件.md)
+  - [18. 模板](/laravel/base/18.%20模板.md)
+  - [19. 表单与验证](/laravel/base/19.%20表单与验证.md)
+  - [20. 数据分页](/laravel/base/20.%20数据分页.md)
